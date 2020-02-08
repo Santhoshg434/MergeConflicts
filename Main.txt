@@ -2,3 +2,7 @@ void merge()
 {
    var = "initial code";
 }
+void Securitypatch2()
+{
+  var = "added Securitypatch2 method"
+}
