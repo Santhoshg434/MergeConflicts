@@ -2,3 +2,8 @@ void merge()
 {
    var = "initial code";
 }
+
+void Securitypatch()
+{
+  var = "added secu"
+}
